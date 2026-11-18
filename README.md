@@ -7,7 +7,8 @@
 **Building resilient systems across mobile, cloud, and AI-assisted engineering.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-pubudut-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pubudut)
-[![DevAI](https://img.shields.io/badge/Featured_Project-DevAI-0A66C2?style=flat-square)](https://github.com/pubudut/Dev-AI-Assistant)
+[![Flow](https://img.shields.io/badge/AI_Architecture-Flow-6D28D9?style=flat-square)](https://github.com/pubudut/Flow)
+[![DevAI](https://img.shields.io/badge/AI_Development-DevAI-0A66C2?style=flat-square)](https://github.com/pubudut/Dev-AI-Assistant)
 
 </div>
 
@@ -25,7 +26,25 @@ My background began with hands-on mobile engineering and grew into cross-team ar
 - 🤖 **AI engineering:** developer tooling, model-provider integration, orchestration, and governed workflows
 - 📚 **Knowledge sharing:** system design, Java/Spring modernization, design patterns, and engineering practices
 
-## Featured open-source project
+## Featured open-source projects
+
+### 🧭 [Flow — AI-Powered System Design Studio](https://github.com/pubudut/Flow)
+
+**Flow** is a local system-design workspace for understanding legacy applications and shaping new systems. It uses a selected **GitHub Copilot or OpenAI** provider to turn source code or product requirements into reviewable business flows and proposed architecture.
+
+**What it demonstrates**
+
+- **Legacy modernization:** analyze supported legacy source (including COBOL), discover business flows, and propose a modern architecture with source-linked evidence and explicit uncertainty.
+- **New system design:** turn an idea and quality requirements into editable capabilities, business-rule interpretations, and system boundaries.
+- **Architecture discipline:** examine OOP, all five SOLID principles, SOA, anti-patterns, design patterns, and **21 distributed-systems topics** with evidence-backed review dispositions.
+- **Human-in-the-loop decisions:** review and approve a specific architecture snapshot before requesting generated implementation.
+- **Practical deliverables:** inspect interactive diagrams, export SVG and vector PDF reports, and request a proposed **Java 21 / Spring Boot** Maven application with tests and a Dockerfile.
+
+*Generated designs and code require independent review and verification; Flow does not certify production readiness.*
+
+**Explore the project:** [Repository & quick start](https://github.com/pubudut/Flow) · [Architecture and capabilities](https://github.com/pubudut/Flow#design-a-new-system) · [Legacy modernization workflow](https://github.com/pubudut/Flow#legacy-migration)
+
+---
 
 ### 🤖 [DevAI — AI-Assisted Development Workspace](https://github.com/pubudut/Dev-AI-Assistant)
 
@@ -62,6 +81,7 @@ I care about architecture that is **understandable, measurable, and maintainable
 
 ## Currently exploring
 
+- Exploring AI-guided legacy modernization and evidence-backed architecture reviews through Flow
 - Modernizing legacy Java applications with Spring Boot, SOLID, and distributed architecture patterns
 - Building AI-assisted developer experiences with configurable providers and enterprise controls
 - Designing resilient financial-services platforms and cloud-native architectures
@@ -72,7 +92,8 @@ I care about architecture that is **understandable, measurable, and maintainable
 I'm always interested in thoughtful conversations about **software architecture, cloud platforms, mobile engineering, and AI developer tools**.
 
 - [Explore my public repositories](https://github.com/pubudut?tab=repositories)
+- [Explore Flow](https://github.com/pubudut/Flow)
 - [Discuss or contribute to DevAI](https://github.com/pubudut/Dev-AI-Assistant)
 
 <!-- Optional: add your verified LinkedIn, Medium, or personal website links here. -->
-<!-- As additional projects become public, add them under relevant categories above. -->
+<!-- As additional projects become public, add them under the featured projects section above. -->
